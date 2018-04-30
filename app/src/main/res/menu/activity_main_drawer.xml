@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_danhsach"
+            android:icon="@drawable/ic_menu_danhsach"
+            android:title="@string/danh_s_ch_c_ng_vi_c" />
+        <item
+            android:id="@+id/nav_hangngay"
+            android:icon="@drawable/ic_menu_hangngay"
+            android:title="@string/c_ng_vi_c_h_ng_ng_y" />
+        <item
+            android:id="@+id/nav_mucdich"
+            android:icon="@drawable/ic_menu_mucdich"
+            android:title="@string/m_c_ch" />
+        <item
+            android:id="@+id/nav_caidat"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/c_i_t" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_phanhoi"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/ph_n_h_i" />
+            <item
+                android:id="@+id/nav_baocao"
+                android:icon="@drawable/ic_menu_report"
+                android:title="@string/b_o_c_o" />
+            <item
+                android:id="@+id/nav_dangxuat"
+                android:icon="@drawable/ic_menu_dangxuat"
+                android:title="@string/ng_xu_t"/>
+        </menu>
+    </item>
+
+</menu>

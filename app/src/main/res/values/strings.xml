@@ -1,0 +1,22 @@
+<resources>
+    <string name="your_to_do_list_is_empty_because_you_don_t_have_any_tasks_create_tasks_for_your_goals_in_routine_tab">Your To-Do List is empty because you don\'t have any tasks. Create tasks for your goals in Routine Tab</string>
+    <string name="to_do_list">TO-DO LIST</string>
+    <string name="to_do_list_2">To-Do List</string>
+    <string name="celendar">Celendar</string>
+
+    <string name="app_name">MainMenu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="danh_s_ch_c_ng_vi_c">Danh sách công việc</string>
+    <string name="c_ng_vi_c_h_ng_ng_y">Công việc hàng ngày</string>
+    <string name="m_c_ch">Mục đích</string>
+    <string name="c_i_t">Cài đặt</string>
+    <string name="communicate">Communicate</string>
+    <string name="ph_n_h_i">Phản hồi</string>
+    <string name="b_o_c_o">Báo cáo</string>
+    <string name="ng_xu_t">Đăng Xuất</string>
+    <string name="xin_ch_o">Xin Chào</string>
+</resources>
